@@ -1,6 +1,6 @@
 # Gravity Vault
 
-### TOkens LOck and Transaction Hash
+### TOkens Lock and Transaction Hash
 
 Here's a screenshot of the token's lock on Solscan:
 
